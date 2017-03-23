@@ -1,0 +1,12 @@
+[
+	{
+		"key": "warning",
+		"default_value": "example warning",
+		"value_type": "string"
+	},
+	{
+		"key": "min-quantity",
+		"default_value": "1",
+		"value_type": "string"
+	}
+]
